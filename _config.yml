@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Ruan (阮洁)"
+  name             : "Jie Ruan"
   avatar           : "ruanjie.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Shenzhen, China"
+  bio              : "Mphil at Peking University"
+  location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=XpBR1Z8AAAAJ&hl=zh-CN&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@PKU_JieRuan"
   vine             :
   weibo            :
   xing             :
