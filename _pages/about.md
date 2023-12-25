@@ -12,9 +12,11 @@ I am currently pursuing a master's degree at Peking University, focusing on natu
 
 Selected Publications
 --------
-Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampling.
-Jie Ruan, Xiao Pu, Mingqi Gao, Xiaojun Wan and Yuesheng Zhu. Accepted to AAAI 2024.
+Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampling.\\
+**Jie Ruan**, Xiao Pu, Mingqi Gao, Xiaojun Wan and Yuesheng Zhu. \\
+Accepted to AAAI 2024.
 
-Describe Images in a Boring Way: Towards Cross-Modal Sarcasm Generation
-Jie Ruan, Yue Wu, Xiaojun Wan and Yuesheng Zhu. Accepted to WACV 2024. 
+Describe Images in a Boring Way: Towards Cross-Modal Sarcasm Generation.\\
+**Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu. \\
+Accepted to WACV 2024. 
 
