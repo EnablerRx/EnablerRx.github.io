@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "markdown-test"
-    url: /markdown/
+  # - title: "markdown-test"
+  #   url: /markdown/
 
-  - title: "Test2"
-    url: /test/    
+  # - title: "Test2"
+  #   url: /test/    
