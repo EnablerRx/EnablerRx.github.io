@@ -16,7 +16,7 @@ Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampli
 **Jie Ruan**, Xiao Pu, Mingqi Gao, Xiaojun Wan and Yuesheng Zhu. \\
 Accepted to AAAI 2024.
 
-Describe Images in a Boring Way: Towards Cross-Modal Sarcasm Generation.\\
+Describe Images in a *Boring* Way: Towards Cross-Modal Sarcasm Generation.\\
 **Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu. \\
 Accepted to WACV 2024. 
 
