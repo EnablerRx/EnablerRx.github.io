@@ -17,9 +17,6 @@ If you are interested in collaboration, please reach out! I'm more than happy to
 
 Selected Publications
 --------
-Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation.\\
-**Jie Ruan**, Wenqing Wang and Xiaojun Wan.\\
-Accepted to NAACL 2024
 
 Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampling.\\
 **Jie Ruan**, Xiao Pu, Mingqi Gao, Xiaojun Wan and Yuesheng Zhu. \\
