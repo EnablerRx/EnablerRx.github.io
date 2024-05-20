@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about_.html
 ---
 
 I am currently pursuing a master's degree at Peking University, focusing on natural language generation and evaluation, and I am seeking a Ph.D. position. 
