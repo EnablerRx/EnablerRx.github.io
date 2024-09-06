@@ -17,12 +17,19 @@ If you are interested in collaboration, please reach out! I'm more than happy to
 -->
 Selected Publications
 --------
+Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation\\
+**Jie Ruan**, Wenqing Wang, Xiaojun Wan\\
+NAACL 2024, Outstanding Paper Award
 
 Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampling.\\
 **Jie Ruan**, Xiao Pu, Mingqi Gao, Xiaojun Wan and Yuesheng Zhu. \\
-Accepted to AAAI 2024.
+AAAI 2024
+
+Benchmarking knowledge boundary for large language model: A different perspective on model evaluation.\\
+Xunjian Yin, Xu Zhang, **Jie Ruan**, Xiaojun Wan\\
+ACL 2024
 
 Describe Images in a *Boring* Way: Towards Cross-Modal Sarcasm Generation.\\
 **Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu. \\
-Accepted to WACV 2024. 
+WACV 2024
 
