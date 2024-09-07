@@ -10,9 +10,9 @@ redirect_from:
 
 # Contact
 -------
-Email: ~~ruanjie@stu.pku.edu.cn~~ jieruan75[at]gmail[dot]com  
-X: @JieRuan75  
-Wechat: 1151334747  
+**Email**: ~~ruanjie@stu.pku.edu.cn~~ jieruan75[at]gmail[dot]com  
+**Twitter**: @JieRuan75  
+**Wechat**: 1151334747  
 
 # About Me
 
@@ -74,8 +74,8 @@ Good Youth of ``Progressive and Kind” in Guangdong Province (2022)
 Best Undergraduate Thesis (top 1%) (2021)  
 American College Students Mathematical Modeling Competition - Second Prize (2020)  
 National College Students Mathematical Modeling Competition - Second Prize (2019)  
-Guangdong University Mathematical Modeling Competition - First Prize (2019)  
-Guangdong University Student Financial Modeling Competition - Second Prize (2019)  
+Provincial University Mathematical Modeling Competition - First Prize (2019)  
+Provincial University Student Financial Modeling Competition - Second Prize (2019)  
 ”Teddy Cup” Data Mining Challenge - Third Prize (2019)  
 Excellent Papers in Computer Science Award of the City - First Prize (2019)  
 GMC International Business Management Challenge - Third Prize (2018)   
