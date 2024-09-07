@@ -24,7 +24,7 @@ I received my master degree at Peking University, advised by Prof. Yuesheng Zhu 
 
 My research interest broadly lies in AI and its constructive impacts on humanity. I aspire to deliver Trustworthy and Human-centered AI, including areas such as reliable evaluation, human-AI collaboration, and AI safety. And I am dedicated to unleashing the full potential of imperfect AI in practical applications, emphasizing effective collaboration between humans and AI, especially in fields like medicine, social good, and science.
 
-Feel free to reach out to me if you'd like to discuss research, career path, or explore potential collaboration!  
+Feel free to reach out to me if you'd like to discuss research or explore potential collaboration!  
 
 <!-- 
 
