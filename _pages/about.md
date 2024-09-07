@@ -59,11 +59,11 @@ WACV 2024
 
 # Awards
 ## Scholarships Awards
-<font size="3"> National Scholarship 2020-2021  </font>   
-<font size="3"> Medal of Shantou University (Outstanding Undergraduate Student) (2021)  </font>  
-<font size="3"> National Inspirational Scholarship 2017-2019  </font>    
-<font size="3"> First-class Academic Scholarship 2017-2019  </font>  
-<font size="3"> Scholarship for Outstanding Students 2018-2019  </font>   
+National Scholarship 2020-2021     
+Medal of Shantou University (Outstanding Undergraduate Student) (2021)    
+National Inspirational Scholarship 2017-2019      
+First-class Academic Scholarship 2017-2019    
+Scholarship for Outstanding Students 2018-2019     
 
 ## Prizes and Honors
 NAACL 2024 Outstanding Paper Award (2024)  
