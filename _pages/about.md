@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -81,11 +81,11 @@ Excellent Papers in Computer Science Award of the City - First Prize (2019)
 GMC International Business Management Challenge - Third Prize (2018)   
 
 # Academic Service
-Reviewer: ICML, ICMR, IEEE Computational Intelligence Magazine  
-PC: ICMR 2024
+**Reviewer**: ICML, ICMR, IEEE Computational Intelligence Magazine  
+**Program Committee**: ICMR  
 
 # Talks
-- Reliable NLG Human Evaluation with Constrained Active Sampling    
+- **Reliable NLG Human Evaluation with Constrained Active Sampling**    
 Saarland University, 2023    
 Southern University of Science and Technologyy, 2023
 
