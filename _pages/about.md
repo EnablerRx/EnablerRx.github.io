@@ -16,7 +16,7 @@ Wechat: 1151334747
 
 # About Me
 
-Hi, my name is Jie Ruan. Currently, I am a first year PhD student at University of Michigan. I was fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
+Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University of Michigan. I was fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
 
 I received my master degree at Peking University, advised by Prof. Yuesheng Zhu, Prof Xiaojun Wan and Prof. Guibo Luo.
 
