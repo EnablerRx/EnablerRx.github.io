@@ -71,7 +71,9 @@ Excellent Papers in Computer Science Award of the City - First Prize (2019)
 
 # Academic Service
 **Reviewer**: ICML, ICMR, IEEE Computational Intelligence Magazine  
-**Program Committee**: ICMR  
+**Program Committee**: ICMR 
+
+
 <!-- 
 # Talks
 - **Reliable NLG Human Evaluation with Constrained Active Sampling**    
