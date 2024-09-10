@@ -18,11 +18,11 @@ redirect_from:
 
 Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University of Michigan. I was fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
 
-I received my master degree at Peking University, advised by Prof. Yuesheng Zhu, Prof Xiaojun Wan and Prof. Guibo Luo.
+<!-- I received my master degree at Peking University, advised by Prof. Yuesheng Zhu, Prof Xiaojun Wan and Prof. Guibo Luo.-->
 
-I received my master degree at Peking University, advised by Prof. Yuesheng Zhu and Prof. Guibo Luo. I was also fortunate to work closely with Prof. Xiaojun Wan.
+I received my master degree at Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao). I was also fortunate to work closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao).
 
-My research interest broadly lies in AI and its constructive impacts on humanity. I aspire to deliver Trustworthy and Human-centered AI, including areas such as reliable evaluation, human-AI collaboration, and AI safety. And I am dedicated to unleashing the full potential of imperfect AI in practical applications, emphasizing effective collaboration between humans and AI, especially in fields like medicine, social good, and science.
+My research interest broadly lies in AI and its constructive impacts on humanity. I aspire to deliver Trustworthy and Human-centered AI, including areas such as reliable evaluation, human-AI collaboration, and AI safety. And I am dedicated to unleashing the full potential of imperfect AI in practical applications, emphasizing effective collaboration between humans and AI, especially in fields like medicine, education, social good, and science.
 
 Feel free to reach out to me if you'd like to discuss research or explore potential collaboration!  
 
@@ -57,36 +57,25 @@ Describe Images in a *Boring* Way: Towards Cross-Modal Sarcasm Generation. [Pape
 WACV 2024  
 
 
-# Awards
-## Scholarships Awards
-National Scholarship 2020-2021     
-Medal of Shantou University (Outstanding Undergraduate Student) (2021)    
-National Inspirational Scholarship 2017-2019      
-First-class Academic Scholarship 2017-2019    
-Scholarship for Outstanding Students 2018-2019     
-
-## Prizes and Honors
+# Selected Awards
 NAACL 2024 Outstanding Paper Award (2024)  
 Peking University Outstanding Graduate (2024)  
 Peking University Outstanding Graduation Thesis (2024)  
 Academic Excellence Award of Peking University (2023)  
 Good Youth of ``Progressive and Kind” in Guangdong Province (2022)  
 Best Undergraduate Thesis (top 1%) (2021)  
-American College Students Mathematical Modeling Competition - Second Prize (2020)  
-National College Students Mathematical Modeling Competition - Second Prize (2019)  
+Outstanding Undergraduate Student (2021)  
+National Scholarship (2021)  
 Provincial University Mathematical Modeling Competition - First Prize (2019)  
-Provincial University Student Financial Modeling Competition - Second Prize (2019)  
-”Teddy Cup” Data Mining Challenge - Third Prize (2019)  
 Excellent Papers in Computer Science Award of the City - First Prize (2019)  
-GMC International Business Management Challenge - Third Prize (2018)   
 
 # Academic Service
 **Reviewer**: ICML, ICMR, IEEE Computational Intelligence Magazine  
 **Program Committee**: ICMR  
-
+<!-- 
 # Talks
 - **Reliable NLG Human Evaluation with Constrained Active Sampling**    
 Saarland University, 2023    
 Southern University of Science and Technologyy, 2023
-
+-->
 
