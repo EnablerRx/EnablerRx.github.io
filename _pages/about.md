@@ -16,7 +16,7 @@ redirect_from:
 
 # About Me
 
-Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University of Michigan. I was fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
+Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University of Michigan. I am fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
 
 <!-- I received my master degree at Peking University, advised by Prof. Yuesheng Zhu, Prof Xiaojun Wan and Prof. Guibo Luo.-->
 
@@ -42,7 +42,7 @@ Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Prelimina
 
 
 Better than Random: Reliable NLG Human Evaluation with Constrained Active Sampling. [Paper](https://arxiv.org/pdf/2406.07967v1) [Code](https://github.com/EnablerRx/CASF)  
-**Jie Ruan**, Xiao Pu, Mingqi Gao, Xiaojun Wan and Yuesheng Zhu.   
+**Jie Ruan**, Xiao Pu, Mingqi Gao, Xiaojun Wan and Yuesheng Zhu   
 AAAI 2024  
 
 
@@ -53,7 +53,7 @@ ACL 2024
 
 
 Describe Images in a *Boring* Way: Towards Cross-Modal Sarcasm Generation. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ruan_Describe_Images_in_a_Boring_Way_Towards_Cross-Modal_Sarcasm_Generation_WACV_2024_paper.pdf) [Code](https://github.com/EnablerRx/CMSG-EGRM)  
-**Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu.   
+**Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu   
 WACV 2024  
 
 
@@ -66,8 +66,8 @@ Good Youth of ``Progressive and Kind” in Guangdong Province (2022)
 Best Undergraduate Thesis (top 1%) (2021)  
 Outstanding Undergraduate Student (2021)  
 National Scholarship (2021)  
-Provincial University Mathematical Modeling Competition - First Prize (2019)  
-Excellent Papers in Computer Science Award of the City - First Prize (2019)  
+Provincial Mathematical Modeling Competition - First Prize (2019)  
+City Award for Excellence in Computer Science Research - First Prize (2019)  
 
 # Academic Service
 **Reviewer**: ICML, ICMR, IEEE Computational Intelligence Magazine  
@@ -77,6 +77,9 @@ Excellent Papers in Computer Science Award of the City - First Prize (2019)
 <!-- 
 
 Talks
+- **Towards Reliable NLG Evaluation**
+University of Michigan, 2024
+
 - **Reliable NLG Human Evaluation with Constrained Active Sampling**    
 Saarland University, 2023    
 Southern University of Science and Technologyy, 2023
