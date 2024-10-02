@@ -56,11 +56,11 @@ Describe Images in a *Boring* Way: Towards Cross-Modal Sarcasm Generation. [Pape
 **Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu   
 WACV 2024  
 
-Human-like Summarization Evaluation with ChatGPT. [Paper](https://arxiv.org/pdf/2304.02554)
-Mingqi Gao, **Jie Ruan**, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan
+Human-like Summarization Evaluation with ChatGPT. [Paper](https://arxiv.org/pdf/2304.02554)     
+Mingqi Gao, **Jie Ruan**, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan    
 
-LLM-based NLG Evaluation: Current Status and Challenges. [Paper](https://arxiv.org/pdf/2402.01383)
-Mingqi Gao, Xinyu Hu, **Jie Ruan** , Xiao Pu , Xiaojun Wan
+LLM-based NLG Evaluation: Current Status and Challenges. [Paper](https://arxiv.org/pdf/2402.01383)    
+Mingqi Gao, Xinyu Hu, **Jie Ruan** , Xiao Pu , Xiaojun Wan    
 Computational Linguistics
 
 
