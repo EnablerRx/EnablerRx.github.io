@@ -20,9 +20,9 @@ Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University 
 
 <!-- I received my master degree at Peking University, advised by Prof. Yuesheng Zhu, Prof Xiaojun Wan and Prof. Guibo Luo.-->
 
-I received my master degree at Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao). I was also fortunate to work closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao).
+I received my master degree from Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao), and had the privilege of working closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao).
 
-My research interest broadly lies in AI and its constructive impacts on humanity. I aspire to deliver Trustworthy and Human-centered AI, including areas such as reliable evaluation, human-AI collaboration, and AI safety. And I am dedicated to unleashing the full potential of imperfect AI in practical applications, emphasizing effective collaboration between humans and AI, especially in fields like medicine, education, social good, and science.
+My research interest broadly lies in AI and its constructive impacts on humanity. I aspire to deliver Trustworthy AI, including areas such as reliable evaluation, alignment, and scalable oversight. And I am dedicated to unleashing the full potential of imperfect AI in practical applications, especially in fields like psychology, medicine, education, social good, and science.
 
 Feel free to reach out to me if you'd like to discuss research or explore potential collaboration!  
 
@@ -56,6 +56,13 @@ Describe Images in a *Boring* Way: Towards Cross-Modal Sarcasm Generation. [Pape
 **Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu   
 WACV 2024  
 
+Human-like Summarization Evaluation with ChatGPT. [Paper](https://arxiv.org/pdf/2304.02554)
+Mingqi Gao, **Jie Ruan**, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan
+
+LLM-based NLG Evaluation: Current Status and Challenges. [Paper](https://arxiv.org/pdf/2402.01383)
+Mingqi Gao, Xinyu Hu, **Jie Ruan** , Xiao Pu , Xiaojun Wan
+Computational Linguistics
+
 
 # Selected Awards
 NAACL 2024 Outstanding Paper Award (2024)  
@@ -63,7 +70,7 @@ Peking University Outstanding Graduate (2024)
 Peking University Outstanding Graduation Thesis (2024)  
 Academic Excellence Award of Peking University (2023)  
 Good Youth of \``Progressive and Kind” in Guangdong Province (2022)  
-Best Undergraduate Thesis (top 1%) (2021)  
+Outstanding Undergraduate Thesis (2021)  
 Outstanding Undergraduate Student (2021)  
 National Scholarship (2021)  
 Provincial Mathematical Modeling Competition - First Prize (2019)  
