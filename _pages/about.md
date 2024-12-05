@@ -20,7 +20,7 @@ Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University 
 
 <!-- I received my master degree at Peking University, advised by Prof. Yuesheng Zhu, Prof Xiaojun Wan and Prof. Guibo Luo.-->
 
-I received my master degree from Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao), and had the privilege of working closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao).
+I received my master degree from Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao), and had the privilege of working closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao). Check out my [CV](https://github.com/EnablerRx/EnablerRx.github.io/blob/master/files/CV.pdf) for more details.
 
 My research interest broadly lies in AI and its constructive impacts on humanity. I aspire to deliver Trustworthy AI, including areas such as reliable evaluation, alignment, and scalable oversight. And I am dedicated to unleashing the full potential of imperfect AI in practical applications, especially in fields like psychology, medicine, education, social good, and science.
 
