@@ -67,7 +67,7 @@ Mingqi Gao, **Jie Ruan**, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan
 
 ReproHum\# 0087-01: A Reproduction Study of the Human Evaluation of the Coverage of Fact Checking Explanations. [paper](https://aclanthology.org/2024.humeval-1.25.pdf)   
 Mingqi Gao, **Jie Ruan**, Xiaojun Wan  
-Proceedings of the Fourth Workshop on Human Evaluation of NLP Systems (HumEval)\@ LREC-COLING 2024.
+Proceedings of the Fourth Workshop on Human Evaluation of NLP Systems (HumEval) @ LREC-COLING 2024.
 
 A Reproduction Study of the Human Evaluation of Role-Oriented Dialogue Summarization Models. [Paper](https://humeval.github.io/papers/1_Paper.pdf)   
 Mingqi Gao, **Jie Ruan**, Xiaojun Wan   
