@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: "https://github.com/EnablerRx/EnablerRx.github.io/blob/master/files/CV.pdf" # An array of links to social media profiles
 
 
 # Analytics
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=XpBR1Z8AAAAJ&hl=zh-CN&oi=ao"
   email            : jieruan75@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  CV               : https://github.com/EnablerRx/EnablerRx.github.io/blob/master/files/CV.pdf
+  CV               : "https://github.com/EnablerRx/EnablerRx.github.io/blob/master/files/CV.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
