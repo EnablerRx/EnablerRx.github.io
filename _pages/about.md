@@ -18,13 +18,13 @@ redirect_from:
 
 Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University of Michigan. I am fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
 
-<!-- I received my master degree at Peking University, advised by Prof. Yuesheng Zhu, Prof Xiaojun Wan and Prof. Guibo Luo.-->
 
-I received my master degree from Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao), and had the privilege of working closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao). Check out my [CV](https://github.com/EnablerRx/EnablerRx.github.io/blob/master/files/CV.pdf) for more details.
+I received my master degree from Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao), and had the privilege of working closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao). 
+<!-- Check out my [CV](https://github.com/EnablerRx/EnablerRx.github.io/blob/master/files/CV.pdf) for more details.-->
 
 My research interest broadly lies in AI and its constructive impacts on humanity. I aspire to deliver Trustworthy AI, including areas such as reliable evaluation, alignment, and scalable oversight. And I am dedicated to unleashing the full potential of imperfect AI in practical applications, especially in fields like psychology, medicine, education, social good, and science.
 
-I am currently working on LLM evaluation, with a focus on constructing benchmarks that reflect the complexity of real-world scenarios and creating reliable automatic evaluation methods.
+<!-- I am currently working on LLM evaluation, with a focus on constructing benchmarks that reflect the complexity of real-world scenarios and creating reliable automatic evaluation methods.-->
 
 Feel free to reach out to me if you'd like to discuss research or explore potential collaboration!  
 
@@ -54,9 +54,6 @@ Benchmarking knowledge boundary for large language model: A different perspectiv
 Xunjian Yin, Xu Zhang, **Jie Ruan**, Xiaojun Wan    
 ACL 2024  
 
-LLM-based NLG Evaluation: Current Status and Challenges. [Paper](https://arxiv.org/pdf/2402.01383)    
-Mingqi Gao, Xinyu Hu, **Jie Ruan** , Xiao Pu , Xiaojun Wan    
-Computational Linguistics
 
 Describe Images in a *Boring* Way: Towards Cross-Modal Sarcasm Generation. [Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Ruan_Describe_Images_in_a_Boring_Way_Towards_Cross-Modal_Sarcasm_Generation_WACV_2024_paper.pdf) [Code](https://github.com/EnablerRx/CMSG-EGRM)  
 **Jie Ruan**, Yue Wu, Xiaojun Wan and Yuesheng Zhu   
