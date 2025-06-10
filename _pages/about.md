@@ -40,7 +40,7 @@ My research interest broadly lies in Artificial Intelligence (AI) and its constr
 If you are interested in collaboration, please reach out! I'm more than happy to chat about opportunities here!
 -->
 # Selected Publications/Preprints
-ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists[Paper](https://arxiv.org/abs/2506.01241) [Link](https://huggingface.co/spaces/launch/ExpertLongBench)
+ExpertLongBench: Benchmarking Language Models on Expert-Level Long-Form Generation Tasks with Structured Checklists[Paper](https://arxiv.org/abs/2506.01241) [Link](https://huggingface.co/spaces/launch/ExpertLongBench)  
 **Jie Ruan†**, Inderjeet Nair†, Shuyang Cao†, Amy Liu, Sheza Munir, Micah Pollens-Dempsey, Tiffany Chiang, Lucy Kates, Nicholas David, Sihan Chen, Ruxin Yang, Yuqian Yang, Jasmine Gump, Tessa Bialek, Vivek Sankaran, Margo Schlanger, Lu Wang
 
 Defining and Detecting Vulnerability in Human Evaluation Guidelines: A Preliminary Study Towards Reliable NLG Evaluation [Paper](https://arxiv.org/pdf/2406.07935) [Code](https://github.com/EnablerRx/GuidelineVulnDetect)  
