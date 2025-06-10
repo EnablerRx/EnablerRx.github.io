@@ -88,7 +88,7 @@ Provincial Mathematical Modeling Competition - First Prize (2019)
 City Award for Excellence in Computer Science Research - First Prize (2019)  
 
 # Academic Service
-**Reviewer**: ACL ARR, ICML, ICMR, IEEE Computational Intelligence Magazine  
+**Reviewer**: ARR, ICML, ICMR, IEEE Computational Intelligence Magazine  
 **Program Committee**: ICMR 
 
 
