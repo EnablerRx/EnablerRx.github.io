@@ -10,7 +10,7 @@ redirect_from:
 
 # Contact
 -------
-**Email**: ~~ruanjie@stu.pku.edu.cn~~ jieruan75[at]gmail[dot]com  
+**Email**: jieruan75[at]gmail[dot]com  
 **Twitter**: @JieRuan75  
 **Wechat**: 1151334747  
 
@@ -89,7 +89,7 @@ City Award for Excellence in Computer Science Research - First Prize (2019)
 
 # Academic Service
 **Reviewer**: ARR, ICML, ICMR, IEEE Computational Intelligence Magazine  
-**Program Committee**: ICMR 
+**Program Committee**: ICMR, AAAI 
 
 
 <!-- 
