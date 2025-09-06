@@ -16,7 +16,7 @@ redirect_from:
 
 # About Me
 
-Hi, my name is Jie Ruan. Currently, I am a first-year PhD student at University of Michigan. I am fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
+Hi, my name is Jie Ruan. Currently, I am a second-year PhD student at University of Michigan. I am fortunate to have Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/) as my advisor and I am a member of [LAUNCH Lab](https://launch.eecs.umich.edu/). 
 
 
 I received my master degree from Peking University, advised by Prof. [Yuesheng Zhu](https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=zh-CN) and Prof. [Guibo Luo](https://scholar.google.com/citations?user=kUIPmL4AAAAJ&hl=zh-CN&oi=ao), and had the privilege of working closely with Prof. [Xiaojun Wan](https://scholar.google.com/citations?user=lTTeBdkAAAAJ&hl=zh-CN&oi=ao). 
