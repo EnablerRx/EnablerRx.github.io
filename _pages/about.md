@@ -65,15 +65,6 @@ WACV 2024
 Human-like Summarization Evaluation with ChatGPT. [Paper](https://arxiv.org/pdf/2304.02554)     
 Mingqi Gao, **Jie Ruan**, Renliang Sun, Xunjian Yin, Shiping Yang, Xiaojun Wan    
 
-ReproHum\# 0087-01: A Reproduction Study of the Human Evaluation of the Coverage of Fact Checking Explanations. [paper](https://aclanthology.org/2024.humeval-1.25.pdf)   
-Mingqi Gao, **Jie Ruan**, Xiaojun Wan  
-Proceedings of the Fourth Workshop on Human Evaluation of NLP Systems (HumEval) @ LREC-COLING 2024.
-
-A Reproduction Study of the Human Evaluation of Role-Oriented Dialogue Summarization Models. [Paper](https://humeval.github.io/papers/1_Paper.pdf)   
-Mingqi Gao, **Jie Ruan**, Xiaojun Wan   
-HumEval at RANLP 2023. The 3rd Workshop on Human Evaluation of NLP Systems (HumEval’23)
-
-
 
 # Selected Awards
 NAACL 2024 Outstanding Paper Award (2024)  
